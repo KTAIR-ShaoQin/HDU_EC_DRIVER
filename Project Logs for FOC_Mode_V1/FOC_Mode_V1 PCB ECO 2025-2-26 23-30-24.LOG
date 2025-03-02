@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=R9 Old Footprint=R 2512-HP New Footprint=1225
+Change Component Footprint: Designator=R10 Old Footprint=R 2512-HP New Footprint=1225
+Change Component Footprint: Designator=R11 Old Footprint=R 2512-HP New Footprint=1225
+Added Component: Designator=C?(C 0402)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT23-3L)
+Added Component: Designator=R?(R 0201)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VDD_3V3 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=VDD_3V3 Pin=R?-1
+Added Pin To Net: NetName=NetIC?_2 Pin=IC?-2
+Added Pin To Net: NetName=NetIC?_2 Pin=R?-2
+Added Net: Name=NetIC?_2
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component C? 1uF
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component IC? M1601
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component R? 4.7K

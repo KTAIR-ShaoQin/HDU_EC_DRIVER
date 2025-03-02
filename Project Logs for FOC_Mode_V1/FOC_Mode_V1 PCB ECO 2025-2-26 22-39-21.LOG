@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=PB6 Pin=VD11-1
+Removed Pin From Net: NetName=PB7 Pin=VD12-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD12-2
+Removed Pin From Net: NetName=PB8 Pin=VD13-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD13-2
+Removed Pin From Net: NetName=PA0 Pin=VD14-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD14-2
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD12
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD13
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD14
+Change Component Footprint: Designator=C26 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=C27 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=R1 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R5 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R46 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R47 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R50 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R51 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=VD8 Old Footprint=SOD-323 New Footprint=RB161QS40T18R
+Change Component Footprint: Designator=VD9 Old Footprint=SOD-323 New Footprint=RB161QS40T18R
+Change Component Footprint: Designator=VD10 Old Footprint=SOD-323 New Footprint=RB161QS40T18R
+Change Component Footprint: Designator=VD11 Old Footprint=SOD-323 New Footprint=RB161QS40T18R
+Change Component Comment : Designator=C26 Old Comment=1nF New Comment=1nF 50V X7R
+Change Component Comment : Designator=C27 Old Comment=1nF New Comment=1nF 50V X7R
+Change Component Comment : Designator=VD8 Old Comment=BAT48 New Comment=RB161QS-40
+Change Component Comment : Designator=VD9 Old Comment=BAT48 New Comment=RB161QS-40
+Change Component Comment : Designator=VD10 Old Comment=BAT48 New Comment=RB161QS-40
+Change Component Comment : Designator=VD11 Old Comment=BAT48 New Comment=RB161QS-40
+Change component parameters: Designator = "VD8" ("VD8"); Footprint = "SOD-323"; UniqueID = "\SUNMOCKI" ("\SUNMOCKI")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD9" ("VD9"); Footprint = "SOD-323"; UniqueID = "\OPRBHHVS" ("\OPRBHHVS")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD10" ("VD10"); Footprint = "SOD-323"; UniqueID = "\NKDOTUKD" ("\NKDOTUKD")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD11" ("VD11"); Footprint = "SOD-323"; UniqueID = "\TEBHHBOY" ("\TEBHHBOY")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "属性"; Value = "40V/1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA0 Pin=VD11-1
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PC0 Pin=R28-1
+Removed Pin From Net: NetName=PC1 Pin=R30-1
+Removed Pin From Net: NetName=PC2 Pin=R32-1
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=R28
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=R30
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=R32
+Change Component Footprint: Designator=R27 Old Footprint=R 0201 New Footprint=R 0402
+Change Component Footprint: Designator=R29 Old Footprint=R 0201 New Footprint=R 0402
+Change Component Footprint: Designator=R31 Old Footprint=R 0201 New Footprint=R 0402
+Change Component Comment : Designator=R27 Old Comment=68K New Comment=95K
+Change Component Comment : Designator=R29 Old Comment=68K New Comment=95K
+Change Component Comment : Designator=R31 Old Comment=68K New Comment=95K
+Added Pin To Net: NetName=PC0 Pin=R27-1
+Added Pin To Net: NetName=PC1 Pin=R29-1
+Added Pin To Net: NetName=PC2 Pin=R31-1
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

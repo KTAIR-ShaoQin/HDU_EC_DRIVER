@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R27 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R28 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R29 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R30 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R31 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R32 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R33 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R34 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R35 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Comment : Designator=C16 Old Comment=82nF New Comment=82nF 
+Change Component Comment : Designator=C17 Old Comment=82nF New Comment=82nF 
+Change Component Comment : Designator=C18 Old Comment=82nF New Comment=82nF 
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

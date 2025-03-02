@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PB6 Pin=VD11-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD11-2
+Removed Pin From Net: NetName=PB7 Pin=VD12-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD12-2
+Removed Pin From Net: NetName=PB8 Pin=VD13-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=VD13-2
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD11
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD12
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=VD13
+Change Component Footprint: Designator=C26 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=C27 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=R1 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R5 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R50 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Footprint: Designator=R51 Old Footprint=R 0402 New Footprint=R 0201
+Change Component Comment : Designator=C26 Old Comment=1nF New Comment=1nF 50V X7R
+Change Component Comment : Designator=C27 Old Comment=1nF New Comment=1nF 50V X7R
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

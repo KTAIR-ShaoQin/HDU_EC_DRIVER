@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC1_2
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

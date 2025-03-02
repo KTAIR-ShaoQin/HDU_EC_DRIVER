@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=C19-2
+Removed Pin From Net: NetName=OSC_IN Pin=C20-1
+Removed Pin From Net: NetName=OSC_IN Pin=X1-1
+Removed Pin From Net: NetName=OSC_OUT Pin=X1-3
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=C19
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=C20
+Removed Member From Class: ClassName=FOC_Mode_V1 Member=X1
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C8 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=C9 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Comment : Designator=C8 Old Comment=100nF 50V New Comment=100nF 16V X7R
+Change Component Comment : Designator=C9 Old Comment=100nF 50V New Comment=100nF 16V X7R
+Added Component: Designator=C20(C 0201)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C20-2
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component C20 100nF 16V X7R

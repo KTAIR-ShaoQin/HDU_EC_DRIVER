@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C21 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=C22 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Footprint: Designator=C23 Old Footprint=C 0402 New Footprint=C 0201
+Change Component Comment : Designator=C21 Old Comment=1nF New Comment=1nF 50V X7R
+Change Component Comment : Designator=C22 Old Comment=1nF New Comment=1nF 50V X7R
+Change Component Comment : Designator=C23 Old Comment=1nF New Comment=1nF 50V X7R
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

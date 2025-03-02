@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=VD4 Old Footprint=SMA New Footprint=SOD-323
+Change Component Comment : Designator=R49 Old Comment=100K New Comment=10K
+Change Component Comment : Designator=VD4 Old Comment=STPS1H100A New Comment=DSK110
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "SMA"; UniqueID = "\HZZUNWFP" ("\HZZUNWFP")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "高速开关二极管"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
