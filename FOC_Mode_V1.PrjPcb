@@ -83,6 +83,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKVADCTQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FOC_Mode_V1\Design Rule Check - FOC_Mode_V1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

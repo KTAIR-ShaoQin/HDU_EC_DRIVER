@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=C25-2
+Removed Pin From Net: NetName=CAN_TX Pin=U2-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=U2-3
+Removed Pin From Net: NetName=CAN_RX Pin=U2-4
+Removed Pin From Net: NetName=CAN_N Pin=U2-6
+Removed Pin From Net: NetName=CAN _P Pin=U2-7
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Change Component Footprint: Designator=U2 Old Footprint=DFN-8_L3.0-W3.0-P0.65-BL-EP New Footprint=SOT23-5N
+Change Component Comment : Designator=IC1 Old Comment=M1601 New Comment=M1601W
+Change Component Comment : Designator=U2 Old Comment=SIT1057QTK/3 New Comment=LP5907
+Change component parameters: Designator = "U2" ("U2"); Footprint = "DFN-8_L3.0-W3.0-P0.65-BL-EP"; UniqueID = "\VMETAIEC" ("\VMETAIEC")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230314/FF2AD341DEE6F9B9360628D995F4E690.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TPLP5907MFX-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "LP5907MFX-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TECH PUBLIC(台舟)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TPLP5907MFX-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "TPLP5907MFX-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C5370990"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TPLP5907MFX-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C 0603)
+Add component (AddParameter): Name = "BOM名称"; Value = "无极性贴片电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOT65P280X145-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MAX3051EKA+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/max3051ekat/analog-devices?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/MAX3051EKA+T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX3051EKA+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX3051EKAT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3051EKA%2bT?qs=7H2Jq%252ByxpJJ9A9IBkofv1A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VCC_BUCK Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=CAN_TX Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=CAN_RX Pin=IC2-4
+Added Pin To Net: NetName=CAN_N Pin=IC2-6
+Added Pin To Net: NetName=CAN _P Pin=IC2-7
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=VCC_BUCK Pin=U2-1
+Added Pin To Net: NetName=VCC_BUCK Pin=U2-3
+Added Pin To Net: NetName=VDD_3V3_CAN Pin=C25-2
+Added Pin To Net: NetName=VDD_3V3_CAN Pin=C30-2
+Added Pin To Net: NetName=VDD_3V3_CAN Pin=IC2-3
+Added Pin To Net: NetName=VDD_3V3_CAN Pin=U2-5
+Added Net: Name=VDD_3V3_CAN
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component C29 1uF
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component C30 1uF
+Added Member To Class: ClassName=FOC_Mode_V1 Member=Component IC2 MAX3051EKA+T

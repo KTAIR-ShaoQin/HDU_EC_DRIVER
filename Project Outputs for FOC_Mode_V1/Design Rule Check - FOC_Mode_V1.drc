@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : D:\RM\FOC_Mode\Hardware\FOC_Mode_V1\FOC_Mode_V1.PcbDoc
+Date     : 2025/3/3
+Time     : 23:22:11
+
+Processing Rule : Clearance Constraint (Gap=4mil) (InNamedPolygon('OUTPUT_U') OR InNamedPolygon('OUTPUT_V')  OR InNamedPolygon('OUTPUT_w')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R10-1(785mil,866.224mil) on Top Layer And Via (785mil,896.5mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R10-2(785mil,956.776mil) on Top Layer And Via (785mil,924mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R11-1(180mil,866.224mil) on Top Layer And Via (180mil,896.5mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R11-2(180mil,956.776mil) on Top Layer And Via (180mil,924mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R9-1(480mil,866.224mil) on Top Layer And Via (480mil,896.5mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 4mil) Between Pad R9-2(480mil,956.776mil) on Top Layer And Via (480mil,924mil) from Top Layer to Bottom Layer 
+Rule Violations :6
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InNamedPolygon('TP_GND') OR InNamedPolygon('PW_3V3')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InNamedPolygon('GND_VM')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (InNamedPolygon('GND_SIG_PW')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad R10-1(785mil,866.224mil) on Top Layer And Via (785mil,896.5mil) from Top Layer to Bottom Layer Location : [X = 5287.5mil][Y = 3823.627mil]
+   Violation between Short-Circuit Constraint: Between Pad R10-2(785mil,956.776mil) on Top Layer And Via (785mil,924mil) from Top Layer to Bottom Layer Location : [X = 5287.5mil][Y = 3858.123mil]
+   Violation between Short-Circuit Constraint: Between Pad R11-1(180mil,866.224mil) on Top Layer And Via (180mil,896.5mil) from Top Layer to Bottom Layer Location : [X = 4682.5mil][Y = 3823.627mil]
+   Violation between Short-Circuit Constraint: Between Pad R11-2(180mil,956.776mil) on Top Layer And Via (180mil,924mil) from Top Layer to Bottom Layer Location : [X = 4682.5mil][Y = 3858.123mil]
+   Violation between Short-Circuit Constraint: Between Pad R9-1(480mil,866.224mil) on Top Layer And Via (480mil,896.5mil) from Top Layer to Bottom Layer Location : [X = 4982.5mil][Y = 3823.627mil]
+   Violation between Short-Circuit Constraint: Between Pad R9-2(480mil,956.776mil) on Top Layer And Via (480mil,924mil) from Top Layer to Bottom Layer Location : [X = 4982.5mil][Y = 3858.123mil]
+Rule Violations :6
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=3897.638mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=39330.709mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=157.48mil) (Prefered=118.11mil) (All)
+   Violation between Height Constraint: SMT Small Component TP1-NetTie (480mil,934mil) on Top Layer Actual Height = 177.165mil
+   Violation between Height Constraint: SMT Small Component TP2-NetTie (785mil,934mil) on Top Layer Actual Height = 177.165mil
+   Violation between Height Constraint: SMT Small Component TP3-NetTie (180mil,934mil) on Top Layer Actual Height = 177.165mil
+   Violation between Height Constraint: SMT Small Component TP4-NetTie (480mil,886.5mil) on Top Layer Actual Height = 177.165mil
+   Violation between Height Constraint: SMT Small Component TP5-NetTie (785mil,886.5mil) on Top Layer Actual Height = 177.165mil
+   Violation between Height Constraint: SMT Small Component TP6-NetTie (180mil,886.5mil) on Top Layer Actual Height = 177.165mil
+Rule Violations :6
+
+
+Violations Detected : 18
+Waived Violations : 0
+Time Elapsed        : 00:00:02

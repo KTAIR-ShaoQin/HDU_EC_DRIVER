@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R9 Old Comment=5mR New Comment=2mR
+Change Component Comment : Designator=R10 Old Comment=5mR New Comment=2mR
+Change Component Comment : Designator=R11 Old Comment=5mR New Comment=2mR
+Change Component Description : Designator=R9 Old Description=贴片电阻 New Description=采样电阻
+Change Component Description : Designator=R10 Old Description=贴片电阻 New Description=采样电阻
+Change Component Description : Designator=R11 Old Description=贴片电阻 New Description=采样电阻
+Added Pin To Net: NetName=MOS_Temp_DQ Pin=IC1-2
+Added Pin To Net: NetName=MOS_Temp_DQ Pin=R52-2
+Added Pin To Net: NetName=MOS_Temp_DQ Pin=U1-44
+Added Net: Name=MOS_Temp_DQ
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2

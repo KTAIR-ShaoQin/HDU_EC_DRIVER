@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MT_Temp_DQ Pin=U1-51
+Added Net: Name=MT_Temp_DQ
+Add Differential Pair: Number of nets in differential pair CAN  is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair CAN is 1 instead of 2
